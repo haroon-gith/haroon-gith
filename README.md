@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence." alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence.)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -59,7 +59,7 @@ I build end-to-end machine learning systems — from raw messy data all the way 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/haroon-afzal01]" target="_blank">
+  <a href="https://www.linkedin.com/in/haroon-afzal01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
