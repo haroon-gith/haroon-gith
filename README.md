@@ -15,7 +15,7 @@ I build end-to-end machine learning systems — from raw messy data all the way 
 - 🔬 &nbsp; Design and train **supervised & unsupervised ML models** using Scikit-Learn
 - 🛠️ &nbsp; Build **REST APIs** to serve ML models in production using FastAPI
 - 📊 &nbsp; Extract insights from data with **Pandas, NumPy, Matplotlib & Seaborn**
-- 🗄️ &nbsp; Write complex queries and manage relational data with **SQL**
+- 🗄️ &nbsp; Write complex queries and manage relational data with **PostgreSQL & SQL**
 - 🔁 &nbsp; Version everything with **Git & GitHub** — clean commits, real workflows
 
 <br/>
