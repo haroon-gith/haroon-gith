@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence.)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Haroon+Afzal;Machine+Learning+Engineer;I+turn+data+into+intelligence." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@ I build end-to-end machine learning systems — from raw messy data all the way 
 - 🔬 &nbsp; Design and train **supervised & unsupervised ML models** using Scikit-Learn
 - 🛠️ &nbsp; Build **REST APIs** to serve ML models in production using FastAPI
 - 📊 &nbsp; Extract insights from data with **Pandas, NumPy, Matplotlib & Seaborn**
-- 🗄️ &nbsp; Write complex queries and manage relational data with **PostgreSQL & SQL**
+- 🗄️ &nbsp; Write complex queries and manage relational data with **SQL**
 - 🔁 &nbsp; Version everything with **Git & GitHub** — clean commits, real workflows
 
 <br/>
